@@ -1,6 +1,6 @@
 # Resurface Classifier Lab
 
-A lab for building and evaluating a Phase 0 heuristic classifier for screenshots (recipes, workouts, quotes, none).
+A lab for building and evaluating a Phase 0 heuristic classifier for screenshots (recipes, workouts, quotes etc.).
 
 ## Overview
 
